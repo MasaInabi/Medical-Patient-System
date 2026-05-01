@@ -1,0 +1,30 @@
+001,1,Oseltamivir,75mg,Daily
+002,2,Hydrocortisone,10mg,Daily
+003,3,Amoxicillin,500mg,Daily
+004,4,Loratadine,10mg,Daily
+005,5,Chloroquine,250mg,Daily
+006,6,Ferrous Sulfate,325mg,Daily
+007,7,Oseltamivir,75mg,Daily
+008,8,Hydrocortisone,10mg,Daily
+009,9,Chloroquine,250mg,Daily
+010,10,Loratadine,10mg,Daily
+011,11,Ferrous Sulfate,325mg,Daily
+012,12,Hydrocortisone,10mg,Daily
+013,13,Oseltamivir,75mg,Daily
+014,14,Hydrocortisone,10mg,Daily
+015,15,Amoxicillin,500mg,Daily
+016,16,Oseltamivir,75mg,Daily
+017,17,Hydrocortisone,10mg,Daily
+018,18,Chloroquine,250mg,Daily
+019,19,Oseltamivir,75mg,Daily
+020,20,Amoxicillin,500mg,Daily
+021,21,Ferrous Sulfate,325mg,Daily
+022,22,Hydrocortisone,10mg,Daily
+023,23,Amoxicillin,500mg,Daily
+024,24,Hydrocortisone,10mg,Daily
+025,25,Amoxicillin,500mg,Daily
+026,26,Oseltamivir,75mg,Daily
+027,27,Chloroquine,250mg,Daily
+028,28,Hydrocortisone,10mg,Daily
+029,29,Amoxicillin,500mg,Daily
+030,30,Ferrous Sulfate,325mg,Daily

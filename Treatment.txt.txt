@@ -1,0 +1,31 @@
+TreatmentID,PatientID,TreatmentType,StartDate,EndDate
+T001,1,Rest,2025-01-01,2025-01-15
+T002,2,Moisturizing Therapy,2025-01-02,2025-01-16
+T003,3,Nasal Irrigation,2025-01-03,2025-01-17
+T004,4,Moisturizing Therapy,2025-01-04,2025-01-18
+T005,5,Antimalarial Therapy,2025-01-05,2025-01-19
+T006,6,Iron Therapy,2025-01-06,2025-01-20
+T007,7,Rest,2025-01-07,2025-01-21
+T008,8,Moisturizing Therapy,2025-01-08,2025-01-22
+T009,9,Antimalarial Therapy,2025-01-09,2025-01-23
+T010,10,Moisturizing Therapy,2025-01-10,2025-01-24
+T011,11,Iron Therapy,2025-01-11,2025-01-25
+T012,12,Moisturizing Therapy,2025-01-12,2025-01-26
+T013,13,Rest,2025-01-13,2025-01-27
+T014,14,Moisturizing Therapy,2025-01-14,2025-01-28
+T015,15,Nasal Irrigation,2025-01-15,2025-01-29
+T016,16,Rest,2025-01-16,2025-01-30
+T017,17,Moisturizing Therapy,2025-01-17,2025-01-31
+T018,18,Antimalarial Therapy,2025-01-18,2025-02-01
+T019,19,Rest,2025-01-19,2025-02-02
+T020,20,Nasal Irrigation,2025-01-20,2025-02-03
+T021,21,Iron Therapy,2025-01-21,2025-02-04
+T022,22,Moisturizing Therapy,2025-01-22,2025-02-05
+T023,23,Nasal Irrigation,2025-01-23,2025-02-06
+T024,24,Moisturizing Therapy,2025-01-24,2025-02-07
+T025,25,Nasal Irrigation,2025-01-25,2025-02-08
+T026,26,Rest,2025-01-26,2025-02-09
+T027,27,Antimalarial Therapy,2025-01-27,2025-02-10
+T028,28,Moisturizing Therapy,2025-01-28,2025-02-11
+T029,29,Nasal Irrigation,2025-01-29,2025-02-12
+T030,30,Iron Therapy,2025-01-30,2025-02-13

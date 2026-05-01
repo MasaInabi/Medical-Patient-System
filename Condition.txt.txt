@@ -1,0 +1,5 @@
+Eczema|Moisturizing Therapy,Corticosteroid Creams,Antihistamine Treatment,Phototherapy,Topical Antibiotics|Hydrocortisone,Ointment,Loratadine|Itching,Redness,Dry Skin
+Malaria|Antimalarial Therapy,Hydration Therapy,Fever Management,Blood Transfusion,Rest|Chloroquine,Artemisinin,Quinine|Fever,Chills,Headache
+Sinusitis|Nasal Irrigation,Decongestants,Steam Inhalation,Antibiotic Therapy,Pain Relief|Pseudoephedrine,Amoxicillin,Ibuprofen|Nasal Congestion,Facial Pain,Headache
+Influenza|Rest,Flu Vaccination,Hydration Therapy,Antiviral Treatment,Symptom Relief|Oseltamivir,Acetaminophen,Ibuprofen|Fever,Cough,Body Aches
+Anemia|Iron Therapy,Diet Counseling,Vitamin Supplementation,Blood Transfusion,Folic Acid Therapy|Ferrous Sulfate,Vitamin B12,Folic Acid|Fatigue,Pale Skin,Shortness of Breath
